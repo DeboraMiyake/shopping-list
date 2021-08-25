@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Shopping 1629848042235" max_length="40" name="x_677901_shopping_1629848042235" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Store name" label="Store name" max_length="40" name="u_store_name" type="string"/>
+    </element>
+</database>

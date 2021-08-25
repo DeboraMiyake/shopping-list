@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Store)">e16a2b2b1b0a30109e5eed74604bcbc2</button>
+        <button_parent_table>x_677901_shopping_store</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>store_name</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Store name</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>store_name</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 23:40:20</sys_created_on>
+        <sys_id>e56a2b2b1b0a30109e5eed74604bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store name</sys_name>
+        <sys_package display_value="Shopping List" source="x_677901_shopping">6768e3271b0a30109e5eed74604bcbec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">6768e3271b0a30109e5eed74604bcbec</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_e56a2b2b1b0a30109e5eed74604bcbc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 23:40:20</sys_updated_on>
+        <table_name>x_677901_shopping_store</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=e56a2b2b1b0a30109e5eed74604bcbc5"/>
+</record_update>
